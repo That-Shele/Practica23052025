@@ -22,7 +22,7 @@ public class Main {
         while (!salir) {
             System.out.println("""
               ╔═════════┌══════════════════┐═════════╗
-              ║         │Ejercicios Pág. 32│         ║
+              ║         │Ejercicios   40-47│         ║
               ║         └──────────────────┘         ║
               ║                                      ║
               ║ 0. Salir                             ║   
